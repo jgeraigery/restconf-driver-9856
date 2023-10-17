@@ -36,7 +36,7 @@
         <helm.repo.api.url>${helm.repo.addr}/api/accanto</helm.repo.api.url>
         <helm.repo.snapshots.url>${helm.repo.addr}/accanto/snapshots</helm.repo.snapshots.url>
         <helm.repo.url>${helm.repo.addr}/accanto/stable</helm.repo.url>
-        <jacoco-maven-plugin.version>0.8.4</jacoco-maven-plugin.version>
+        <jacoco-maven-plugin.version>0.8.11</jacoco-maven-plugin.version>
         <java.version>11</java.version>
         <kiwigrid.version>4.13</kiwigrid.version>
         <logstash-logback-encoder.version>7.2</logstash-logback-encoder.version>
